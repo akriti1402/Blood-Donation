@@ -7,7 +7,7 @@ function AboutUs() {
       <section className="about-header">
         <h1>About Us</h1>
         <p>
-          Saving lives, one drop at a time. Our mission is to make blood
+          Saving lives, one drop at a time!. Our mission is to make blood
           donation easy, accessible, and impactful.
         </p>
       </section>
