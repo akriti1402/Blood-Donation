@@ -16,7 +16,7 @@ function Donate() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // No backend logic, just console log for demonstration
+    
     console.log("Donation Information:", formData);
     alert("Thank you for registering to donate!");
   };
